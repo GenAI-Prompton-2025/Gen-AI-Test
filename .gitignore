@@ -5,3 +5,5 @@
 .idea/misc.xml
 .idea/Gen-AI-Test.iml
 .idea/inspectionProfiles
+
+.env
