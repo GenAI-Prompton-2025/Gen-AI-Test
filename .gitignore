@@ -6,4 +6,4 @@
 .idea/Gen-AI-Test.iml
 .idea/inspectionProfiles
 
-.env
+.env.streamlit/secrets.toml
